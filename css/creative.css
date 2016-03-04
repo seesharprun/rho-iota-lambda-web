@@ -18,8 +18,8 @@
     margin-bottom: 10px;
 }
 
-.caorusel .carousel-inner img {
-    width: 100%;
+.carousel-inner > .item > img {
+    width: 100% !important;
 }
 
 html,
